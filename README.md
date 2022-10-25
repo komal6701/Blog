@@ -1,11 +1,24 @@
-# Blog
-![b1](https://user-images.githubusercontent.com/90527371/197407700-0bb952d1-6698-45fe-9aa6-e8171b441976.png)
+# BlogIt
 
+# About the project
+BlogIt is a web application where users can sign up to write blogs. It includes some features which enable users to like and comment on the posts. Apart from it, users can delete their posts and the comments on their posts.
+
+The application is developed using Python Flask and HTML.
+The database is maintained using SQLite.
+
+# Sign Up Page
 
 ![b2](https://user-images.githubusercontent.com/90527371/197407766-eb76a2e5-ac02-47d6-8f80-02043eae7063.png)
 
+# Login Page
 
 ![b3](https://user-images.githubusercontent.com/90527371/197407808-c1c734b7-6c6c-4d6e-a42c-979fd4571d7b.png)
 
+# Home Page 
 
-![b4](https://user-images.githubusercontent.com/90527371/197407832-f912a6bd-2d05-48e9-b358-0497d6470e44.png)
+![A5](https://user-images.githubusercontent.com/90527371/197851588-42dba236-ca1e-4da7-9588-26820562a10c.png)
+
+
+
+
+
